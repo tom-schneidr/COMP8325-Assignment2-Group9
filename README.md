@@ -1,3 +1,9 @@
-## Sup guys
+## How to get the data files
 
-Read the .md file in /data, that has the link where you can download the dataset files. They are too large to be included in the repository, so everyone's gotta download them individually.
+1. Download all the files here: https://drive.google.com/drive/folders/1Uf-LebLWyi9eCv97iBal7kL1NgiGEsv_
+
+2. Make a new folder /data
+
+3. Put them all in there
+
+4. Done!
