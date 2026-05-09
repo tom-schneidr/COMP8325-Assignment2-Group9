@@ -1,3 +1,5 @@
 *.npz
 *.csv
 data/
+artifacts/
+.ipynb_checkpoints/
